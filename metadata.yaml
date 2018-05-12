@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/168
     wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22521#The-Young-Acrobat-of-the-Great-North-American-Circus
 gutenberg_bookshelf: Children's Fiction
 gutenberg_issued: '2007-09-05'
 gutenberg_type: Text
